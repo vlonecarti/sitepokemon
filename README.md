@@ -3,5 +3,5 @@
 
 Vinícius <br/>
 Kauan<br/>
-Júlio Pedro <br/>   
+Júlio Pedro <br/> 
 Leonardo <br/>
