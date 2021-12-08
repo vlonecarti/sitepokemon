@@ -1,7 +1,7 @@
 # sitepokemon
 ## integrantes
 
-Vinícius
-Kauan
-Júlio Pedro
-Leonardo
+Vinícius <br/>
+Kauan<br/>
+Júlio Pedro <br/>   
+Leonardo <br/>
